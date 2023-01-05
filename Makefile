@@ -1,5 +1,5 @@
 #Makefile for building embedded application.
-# by Brian Fraser & edited by Jaspreet Shergill
+# by Jaspreet Shergill
 
 # Edit this file to compile extra C files into their own programs.
 TARGET= beatbox
